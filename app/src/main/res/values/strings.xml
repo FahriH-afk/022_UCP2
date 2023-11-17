@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exe2</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_Submit">Submit</string>
+    <string name="btn_next">Next</string>
+    <string name="dosen">Dosen</string>
+    <string name="haris">Haris Setiawan</string>
+    <string name="joko">Dwi Djoko P</string>
+    <string name="april">Aprilia Kurnianti</string>
+    <string name="nama">Nama Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="konsen">Konsentrasi</string>
+    <string name="judul">Judul Skripsi</string>
+</resources>
